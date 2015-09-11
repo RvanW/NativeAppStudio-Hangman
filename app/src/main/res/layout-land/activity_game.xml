@@ -16,7 +16,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:onClick="quit"
-        android:textSize="15sp"
+        android:textSize="18sp"
         android:background="@drawable/button_chalk"
         android:textColor="#f8f8f8" />
 
